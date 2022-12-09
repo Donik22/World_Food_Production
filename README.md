@@ -11,5 +11,5 @@ Data : CO2_Data.csv, Maize_Production.csv, Maize_Yields.csv, Rice_Production.csv
 The results are summarized in a [Microsoft PowerBI Report](https://github.com/Donik22/World_Food_Production/blob/main/WorldFoodProductionBI.pbix). Filter through the countries slicer to get a more specific chart.
 
 # Conclusion
-From the data, we collected it is clear that temperature increased in direct proportion to Co2 levels globally. The country most affected by This increase in `Angola `, `Canada` and  `Afghanistan` In that order. The countries that contributed the most to global Co2 level increase are `china`, `The United States` and `Russia` In that order. Therefore Increased CO2 Levels are felt outsides the borders of the biggest contributors. 
+From the data we collected it is clear that temperature increased in direct proportion to Co2 levels globally. The country most affected by This increase in `Angola `, `Canada` and  `Afghanistan` In that order. The countries that contributed the most to global Co2 level increase are `china`, `The United States` and `Russia` In that order. Therefore Increased CO2 Levels are felt outsides the borders of the biggest contributors. 
 Crop Production is still increasing but compared to the population increase it is not in a hopeful trajectory.
